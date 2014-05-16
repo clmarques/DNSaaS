@@ -87,8 +87,7 @@ sed -i '/gmysql-dnssec.*/c\gmysql-dnssec=yes' /etc/powerdns/pdns.d/pdns.local.gm
 
 service pdns restart
 
-echo -e "\n\n\nDESIGNATE IS INSTALLED AND THE \"API\" REACHABLE AT "$IP". 
-
+echo -e "\n\n\nDESIGNATE IS INSTALLED 
 
 
 
