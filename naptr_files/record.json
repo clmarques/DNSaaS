@@ -173,7 +173,8 @@
                 "required": true
             },
             "priority": {
-                "type": "null"
+                "type": "integer",
+		"required": true
             }
         }
     }, {
