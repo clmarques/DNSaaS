@@ -139,7 +139,7 @@
             },
             "name": {
                 "type": "string",
-                "pattern": "^(?:_[A-Za-z0-9_\\-]{1,62}\\.){2}"
+                "pattern": "^(?:_[A-Za-z0-9_\\-]{1,62}\\.){1}”
             },
             "data": {
                 "type": "string",
